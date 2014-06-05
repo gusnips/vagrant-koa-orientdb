@@ -7,8 +7,8 @@
 + Ubuntu 12.04 (precise32)
 + [node 0.11.13](https://launchpad.net/~chris-lea/+archive/node.js-devel) - Node latest version  
 + [OrientDB 1.7.1](http://www.orientechnologies.com/orientdb/) - OrientDB database  
-+ [Redis 2.8.9](https://launchpad.net/~chris-lea/+archive/redis-server)  
-+ [Koa](http://koajs.com/) - next generation web framework for node.js  
++ [Redis 2.8.9](https://launchpad.net/~chris-lea/+archive/redis-server) - Advanced key-value store   
++ [Koa](http://koajs.com/) - Next generation web framework for node.js  
 + [Oriento](https://github.com/codemix/oriento) - A lightweight node.js driver for orientdb using orient's binary protocol  
 
 ## What it does
