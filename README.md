@@ -19,10 +19,13 @@
 ## How to use
 add to your hosts file:  
 >33.33.33.96 nodeapp.dev  
+
 run:  
 >vagrant up  
+
 open   
 >[nodeapp.dev](http://nodeapp.dev)  
+  
   
 your application will be in /var/www  
   
