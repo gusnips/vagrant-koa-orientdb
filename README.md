@@ -17,10 +17,13 @@
 + npm install globally koa and oriento
 
 ## How to use
-
-edit [Vagrantfile](https://github.com/gusnips/vagrant-koa/blob/master/Vagrantfile) to change the domain  
-
-and run  
+add to your hosts file:  
+>33.33.33.96 nodeapp.dev  
+run:  
 >vagrant up  
+open   
+>[nodeapp.dev](http://nodeapp.dev)  
   
 your application will be in /var/www  
+  
+optionally you can edit the domain in [Vagrantfile](https://github.com/gusnips/vagrant-koa/blob/master/Vagrantfile)  
