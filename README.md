@@ -29,4 +29,4 @@ open
   
 your application will be in /var/www  
   
-optionally you can edit the domain in [Vagrantfile](https://github.com/gusnips/vagrant-koa/blob/master/Vagrantfile)  
+optionally you can edit the domain in [Vagrantfile](https://github.com/gusnips/vagrant-koa-orientdb/blob/master/Vagrantfile)  
